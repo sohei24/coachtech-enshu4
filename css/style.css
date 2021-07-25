@@ -309,6 +309,12 @@ main span {
 
 .blog-text-box h3 {
   font-size: 8px;
+  margin-bottom: 18px;
+}
+
+.blog-tag {
+  display: flex;
+  justify-content: space-between;
 }
 
 .blog-date {
@@ -408,7 +414,7 @@ main span {
 }
 
 footer {
-  padding: 30px 0;
+  padding: 30px 0 0;
   text-align: center;
 }
 
